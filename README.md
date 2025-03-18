@@ -72,8 +72,7 @@ API para gerenciamento de pedidos utilizando **Express.js** e **MongoDB**. Permi
 
 1. Clone o repositório
    ```bash
-   git clone https://github.com/seu-usuario/api-pedidos.git
-   cd api-pedidos
+   https://github.com/RobsonPMartins/OrderAPI.git
    ```
 
 2. Instale as dependências
